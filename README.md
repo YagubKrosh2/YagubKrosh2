@@ -1,4 +1,4 @@
-### Hi there 👋
+### Здарова друк брат 👋
 
 <!--
 **YagubKrosh2/YagubKrosh2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
